@@ -1,0 +1,121 @@
+body {
+  margin: 0px 10px 10px 10px;
+  padding: 0px;
+  background-color: #000000;
+  text-align: center;
+}
+
+
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: fixed;
+  font-family: 'Oswald', sans-serif;
+  bottom: 0;
+  text-align: center;
+  background-color: #289C59;
+  height: 60px;
+  width: 100%;
+}
+
+header {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+nav {
+  
+}
+
+
+section#descricao {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  padding: 0px 20px 0px 20px;
+  border-radius: 15px 15px 15px 15px;
+  text-align: center;
+  font-size: 16px;
+  background-color: #289C59;
+}
+
+section#apresentacao {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 250px;
+  padding: 5px 15px 5px 15px;
+  border-radius: 10px 10px 10px 10px;
+  color: white;
+  font-size: 13px;
+  background-image: linear-gradient(to bottom, #5895D7, #268FFE);
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+  
+}
+
+
+section {
+  font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+section#est {
+  color: white;
+}
+
+div#alerta {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  background-color: #A52D2D;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+  height: 85px;
+  
+}
+
+a {
+  text-decoration-line: blue;
+  color: white;
+}
+
+button {
+  border: 0px #000000 solid;
+  border-radius: 10px;
+  height: 30px;
+  padding: 0px 10px 0px 10px;
+  font-size: 13px;
+  width: 130px;
+  color: #0479D3;
+  font-family: 'Oswald', sans-serif;
+}
+
+a#aads {
+  margin-left: 40px;
+}
+
+a#a {
+  color: #0479D3;
+  background-color: #FBFBFB;
+}
+
+
+iframe {
+  margin-top: 15px;
+}
